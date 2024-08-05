@@ -1,12 +1,11 @@
 <img align="right" width="400" src="https://github.com/Shayan925/Shayan925/blob/main/programming.png" alt="MasterHead">
 <h1 align="left">Hi 👋, I'm Shayan Jizan</h1>
 <h3 align="left">A passionate and hard-working student developer</h3>
-<br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan925&label=Profile%20views&color=0e75b6&style=flat" alt="shayan925" /> </p>
 
-- 🔭 I’m currently working on **Trading Bot**
+- 🔭 I’m currently working on **Mobile App Development for IOS & Android**
 
-- 🌱 I’m currently learning **Kubernetes, SQL, & Hadoop etc.**
+- 🌱 I’m currently learning **Flutter and Firebase**
 
 - ⚡ Fun fact **Looking for co-op opportunities**
 <br></br>
